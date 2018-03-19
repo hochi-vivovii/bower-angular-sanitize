@@ -1,6 +1,6 @@
 {
   "name": "angular-sanitize",
-  "version": "1.5.11",
+  "version": "1.5.11-1",
   "license": "MIT",
   "main": "./angular-sanitize.js",
   "ignore": [],
